@@ -23,7 +23,7 @@ This is down to the observation that what is humorous to one user, may be offens
 
 ## Notebooks
 
-Jupyter notebook is run on Google Collab, any extra package requried required is being included in the notebook itself.
+Jupyter notebook is run on Google Collab, any extra package requried is being included in the notebook itself.
 
 ## Libraries
 - PyTorch
