@@ -1,6 +1,6 @@
-#pipeline
+# pipeline
 
-**Note:** For py files with preprocessing steps(data cleanup steps, etc)
+**Note:** For py files with preprocessing steps (data cleanup steps, etc)
 
 **reddit_scrape.py**
 
