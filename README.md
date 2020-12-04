@@ -14,9 +14,9 @@ We are able to achieve submissions with significant performance in all the tasks
     ├── notebooks               # Contains all the colab .ipynb used for model training and analysis
     ├── pipeline                # Contains all the .py files used for data collection and analysis
     ├── data                    # The data files (.csv) used in our work
-    │   ├── train_split   		# Has the 90-10 train-test (.csv) files that we use for internal evaluations
+    │   ├── train_split   		    # Has the 90-10 train-test (.csv) files that we use for internal evaluations
     ├── docs                    # Documentation files - project report
-    │   ├── related_work   		# Contains some of the relavent realted work
+    │   ├── related_work   		   # Contains some of the relavent realted work
     └── README.md
 
 ## Datasets
