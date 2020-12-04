@@ -5,9 +5,18 @@
 
 Humor classification is one the hardest problem in the area of Natural Language Understanding.  In this project, we explore different pre-trained models and ensembles to combine and classify humor and offensive detection.
 
-We develop a jokes classifier by fine-tuning pre-trained (BERT, RoBERTa, ...) to classify jokes and attempt to predict ..  
+We are able to achieve submissions with significant performance in all the tasks(detailed more in the report). As of the end of day of the submission ofthe project report, our team holds the a position inthe top 3 for each of the tasks2, and we hold thefirst rank for 3 of the 4 tasks, among 21 other com-peting teams. We discuss this in more detail in ourreport - (https://competitions.codalab.org/competitions/27446#results)
 
-This is down to the observation that what is humorous to one user, may be offensive to another.
+## Folder structure 
+
+    .
+    ├── notebooks               # Contains all the colab .ipynb used for model training and analysis
+    ├── pipeline                # Contains all the .py files used for data collection and analysis
+    ├── data                    # The data files (.csv) used in our work
+    │   ├── train_split   		# Has the 90-10 train-test (.csv) files that we use for internal evaluations
+    ├── docs                    # Documentation files - project report
+    │   ├── related_work   		# Contains some of the relavent realted work
+    └── README.md
 
 ## Datasets
 - Hahackathon dataset (https://competitions.codalab.org/competitions/27446)
