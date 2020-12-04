@@ -1,4 +1,5 @@
 # Joint Modeling of Humor and Offense
+Authors: Gabriel Brookman, Akshay Gugnani, Nicholas Samoray, Brian Zylich
  
  This repo is for our 685 - Final Project & SemEval'21 Event 7. 
 
