@@ -29,7 +29,7 @@ trial_data.csv is the shared csv by Hahackathon - [here](https://competitions.co
 
 ## reddit_compiled.csv
 
-reddit_compiled.csv is the dataset we collect from reddit. It contains 200k posts
+reddit_compiled.csv is the dataset we collect from reddit. It contains 200k posts. We discuss this is more detail in the reort. 
 
 ## public_test.csv
 public_test.csv is the dataset released by the event organizers for use as the public dataset for model evaluation, this would be used in January for the competiotion. 
